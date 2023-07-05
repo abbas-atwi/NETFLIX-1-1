@@ -169,7 +169,6 @@ header {
   display: flex;
   background-color: rgba(0, 0, 0, 0.7);
 }
-
 .ask-container {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -178,7 +177,6 @@ header {
   margin: auto;
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
 }
 .title-ask span {
   display: block;
@@ -211,6 +209,7 @@ header {
   .cover {
     background-color: #000000;
   }
+
   .area-input .textfield {
     flex: 1;
   }
@@ -230,10 +229,5 @@ header {
   }
   .ask-opticons {
     flex-direction: column;
-  }
-  .ask-container {
-  }
-  .options {
-    /* max-width: 100px; */
   }
 }
